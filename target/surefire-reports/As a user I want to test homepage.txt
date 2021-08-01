@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: As a user I want to test homepage
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 85.247 s <<< FAILURE! - in As a user I want to test homepage
+Click on "view" button in "<locations>"(As a user I want to test homepage)  Time elapsed: 19.558 s  <<< FAILURE!
+java.lang.AssertionError: 
+User is not on Harrow page
+Expected: is <false>
+     but: was <true>
+
