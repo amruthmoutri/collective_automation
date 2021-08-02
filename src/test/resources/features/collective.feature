@@ -33,7 +33,7 @@ Feature: As a user I want to test homepage
       | paper-factory |
       | harrow        |
 
-  Scenario: Click on "view" button in "<locations>"
+  Scenario: Click on "view" button in locations
     When I click on navigation header "Our location"
      And I click on location Old Oak
     Then I am on Old Oak page
